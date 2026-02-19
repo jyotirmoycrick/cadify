@@ -10,15 +10,15 @@ const GL = "rgba(45,53,97,.12)";
 /* ── products ──────────────────────────────────────────────────── */
 const PRODUCTS = [
   { id:1,  name:"GaN Pro Charger 65W",     desc:"Ultra-fast GaN tech, 3-port smart power distribution for all devices.", price:"₹1,299", icon:"charger",    img:"https://m.media-amazon.com/images/I/61Afc3ZmcsL._SL1500_.jpg" },
-  { id:2,  name:"AuraBass Pro Headphones", desc:"40hr hybrid ANC, spatial audio, premium memory-foam cushions, foldable.", price:"₹2,999", icon:"headphones", img:"https://m.media-amazon.com/images/I/61GrtFhbGSL._SL1500_.jpg" },
-  { id:3,  name:"TrueWave TWS Buds",       desc:"True wireless, 30hr battery, IPX5 waterproof, AAC & touch controls.", price:"₹1,499", icon:"earbuds",    img:"https://www.leafstudios.in/cdn/shop/files/1_6b54ff34-acdd-40e6-a08a-f2bfa33a1c7a_grande.png" },
-  { id:4,  name:"NeckBand Pro Series",     desc:"Magnetic neckband, 40hr battery, ENC mic & 15-min fast charge.", price:"₹899",   icon:"neckband",   img:"https://m.media-amazon.com/images/I/71sGIHhST6L._SL1500_.jpg" },
-  { id:5,  name:"PowerBank Elite 20K",     desc:"20,000 mAh, 65W PD + 22.5W QC, LED display, 4-port rapid charging.", price:"₹1,799", icon:"battery",    img:"https://m.media-amazon.com/images/I/518+NKyTn4L._SL1200_.jpg" },
-  { id:6,  name:"SmartWatch Ultra X",      desc:"AMOLED display, health & GPS, 7-day battery, IP68 water resistant.", price:"₹3,499", icon:"watch",      img:"https://m.media-amazon.com/images/I/71LYCCINQSL._SL1500_.jpg" },
-  { id:7,  name:"ErgoMouse Pro Wireless",  desc:"Silent ergonomic, dual-mode BT+2.4G, 90-day battery, precision DPI.", price:"₹799",   icon:"mouse",      img:"https://m.media-amazon.com/images/I/41KuRShR97L._SL1200_.jpg" },
-  { id:8,  name:"USB-C Hub 7-in-1",        desc:"4K HDMI, 100W PD, 3× USB 3.0, SD/TF reader in slim aluminium.", price:"₹999",   icon:"hub",        img:"https://m.media-amazon.com/images/I/71LWYz3q5PL._SL1500_.jpg" },
+  { id:2,  name:"AuraBass Pro Headphones", desc:"40hr hybrid ANC, spatial audio, premium memory-foam cushions, foldable.", price:"₹2,999", icon:"headphones", img:"https://m.media-amazon.com/images/I/71Q-uiqUGSL._SL1500_.jpg" },
+  { id:3,  name:"TrueWave TWS Buds",       desc:"True wireless, 30hr battery, IPX5 waterproof, AAC & touch controls.", price:"₹1,499", icon:"earbuds",    img:"https://m.media-amazon.com/images/I/71il16-75rL._SL1500_.jpg" },
+  { id:4,  name:"NeckBand Pro Series",     desc:"Magnetic neckband, 40hr battery, ENC mic & 15-min fast charge.", price:"₹899",   icon:"neckband",   img:"https://m.media-amazon.com/images/I/6153G6ZPO4L._SL1500_.jpg" },
+  { id:5,  name:"PowerBank Elite 20K",     desc:"20,000 mAh, 65W PD + 22.5W QC, LED display, 4-port rapid charging.", price:"₹1,799", icon:"battery",    img:"https://m.media-amazon.com/images/I/71l2MWOeTWL._SL1500_.jpg" },
+  { id:6,  name:"SmartWatch Ultra X",      desc:"AMOLED display, health & GPS, 7-day battery, IP68 water resistant.", price:"₹3,499", icon:"watch",      img:"https://m.media-amazon.com/images/I/61Iw0g8zYYL._SL1500_.jpg" },
+  { id:7,  name:"ErgoMouse Pro Wireless",  desc:"Silent ergonomic, dual-mode BT+2.4G, 90-day battery, precision DPI.", price:"₹799",   icon:"mouse",      img:"https://m.media-amazon.com/images/I/61qG31mjnrL._UF1000,1000_QL80_.jpg" },
+  { id:8,  name:"USB-C Hub 7-in-1",        desc:"4K HDMI, 100W PD, 3× USB 3.0, SD/TF reader in slim aluminium.", price:"₹999",   icon:"hub",        img:"https://m.media-amazon.com/images/I/41MQnMOB1xL._SL1060_.jpg" },
   { id:9,  name:"BraideX 100W Cable",      desc:"Military nylon braid, 100W fast charge, 40Gbps data, 2M length.", price:"₹399",   icon:"cable",      img:"https://m.media-amazon.com/images/I/41ffN9fTNYL.jpg" },
-  { id:10, name:"BassBox BT Speaker",       desc:"360° sound, 24hr playtime, IPX7 waterproof & dual pairing.", price:"₹1,999", icon:"speaker",    img:"https://m.media-amazon.com/images/I/71uji1ExbsL._SL1500_.jpg" },
+  { id:10, name:"BassBox BT Speaker",       desc:"360° sound, 24hr playtime, IPX7 waterproof & dual pairing.", price:"₹1,999", icon:"speaker",    img:"https://5.imimg.com/data5/SELLER/Default/2025/9/546031812/OE/PO/TM/229171966/oem-gt-sp11-bluetooth-speaker.jpg" },
 ];
 
 const FEATURES = [
